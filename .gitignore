@@ -1,0 +1,24 @@
+# Visual Studio temporary/build files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.cache
+
+# Git folder should not be inside submission zip
+.git/
