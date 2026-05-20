@@ -51,13 +51,6 @@ TSVFile/
 - `.vs/`
 - `.git/`
 
-建議 Commit History：
-
-1. `Initial Windows Forms project`
-2. `Add WordItem and WordCollection classes`
-3. `Implement TSV file loading and ListView display`
-4. `Add About dialog and README screenshot`
-
 
 ## 作者
 
